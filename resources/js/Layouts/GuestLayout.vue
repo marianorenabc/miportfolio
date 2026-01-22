@@ -7,7 +7,7 @@ import { Link } from '@inertiajs/vue3';
 
 <template>
     <div
-        class="flex flex-col items-center bg-gray-100 pt-6 sm:justify-center sm:pt-0"
+        class="min-h-screen flex flex-col bg-neutral-900"
     >
         <!-- Header Component -->
         <Header />
