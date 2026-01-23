@@ -83,16 +83,16 @@ const toggleMobileMenu = () => {
     <div v-show="mobileMenuOpen" class="sm:hidden">
         <div class="space-y-1 px-2 pt-2 pb-3">
             <a href="#"
-                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300  hover:text-white">Inicio</a>
+                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:text-white">Inicio</a>
             <a href="#"
-                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300  hover:text-white">Proyectos</a>
+                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:text-white">Proyectos</a>
             <a href="#"
-                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300  hover:text-white">Frameworks</a>
+                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:text-white">Frameworks</a>
             <a href="#"
-                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300  hover:text-white">Sobre
+                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:text-white">Sobre
                 mi</a>
             <a href="#"
-                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300  hover:text-white">Contacto</a>
+                class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:text-white">Contacto</a>
             <button type="button" aria-current="page"
                 class="btn btn-dash w-full block rounded-md px-3 py-2 text-base font-medium bg-white text-neutral-900 hover:bg-neutral-200 transition-colors">Descargar
                 CV</button>
