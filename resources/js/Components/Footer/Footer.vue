@@ -4,25 +4,25 @@
         <div class="flex flex-col justify-center mx-auto max-w-screen px-2 sm:px-6 lg:px-8 py-6 items-center p-4">
             <aside class="text-center sm:text-left p-4">
                 <p class="text-sm font-medium text-gray-300">
-                    Copyright © {{ new Date().getFullYear() }} - All right reserved
+                    Copyright © {{ new Date().getFullYear() }} - Desarrollada por Maria Noreña
                 </p>
             </aside>
             <nav class="flex flex-wrap justify-center gap-6">
                 <a href="#" 
                     class="group relative text-sm font-medium text-gray-300 hover:text-white transition-colors">
-                    About us
+                    Aviso legal
                 </a>
                 <a href="#" 
                     class="group relative text-sm font-medium text-gray-300 hover:text-white transition-colors">
-                    Contact
+                    Politica de privacidad
                 </a>
                 <a href="#" 
                     class="group relative text-sm font-medium text-gray-300 hover:text-white transition-colors">
-                    Jobs
+                    Politica de cookies
                 </a>
                 <a href="#" 
                     class="group relative text-sm font-medium text-gray-300 hover:text-white transition-colors">
-                    Press kit
+                    Configuración de cookies
                 </a>
             </nav>
         </div>
