@@ -6,18 +6,17 @@ import { Link } from '@inertiajs/vue3';
 </script>
 
 <template>
-    <div
-        class="min-h-screen flex flex-col bg-neutral-900"
-    >
+    <div class="min-h-screen flex flex-col bg-neutral-900">
+       
         <!-- Header Component -->
         <Header />
 
 
-        <div
-            class="flex-grow"
-        >
+        <!-- Main Content -->
+        <div class="flex-grow">
             <slot />
         </div>
+
 
         <!-- Footer Component -->
         <Footer />

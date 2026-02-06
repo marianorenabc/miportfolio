@@ -8,15 +8,15 @@
                 </p>
             </aside>
             <nav class="flex flex-wrap justify-center gap-6">
-                <a href="#" 
+                <a href="/aviso-legal" 
                     class="group relative text-sm font-medium text-gray-300 hover:text-white transition-colors">
                     Aviso legal
                 </a>
-                <a href="#" 
+                <a href="/politica-privacidad" 
                     class="group relative text-sm font-medium text-gray-300 hover:text-white transition-colors">
                     Politica de privacidad
                 </a>
-                <a href="#" 
+                <a href="/politica-cookies" 
                     class="group relative text-sm font-medium text-gray-300 hover:text-white transition-colors">
                     Politica de cookies
                 </a>
